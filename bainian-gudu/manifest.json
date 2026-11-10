@@ -1,0 +1,207 @@
+{
+  "book_title": "百年孤独",
+  "repo": "https://github.com/donshaoye/capcut-assets",
+  "branch": "main",
+  "verified_at": "2026-11-10T16:33:02+0800",
+  "note": "raw.githubusercontent.com 在本机网络被阻断；以下链接均经匿名下载 + MD5 校验通过。",
+  "intro_video": [
+    {
+      "file": "intro_with_narration.mp4",
+      "local_path": "D:/ChatGPT/书籍测试/111片头特效/output/intro_with_narration.mp4",
+      "public_url": "https://gcore.jsdelivr.net/gh/donshaoye/capcut-assets@main/bainian-gudu/intro/intro.mp4",
+      "http": "200",
+      "content_type": "video/mp4",
+      "bytes": 5224900,
+      "md5_match": true,
+      "usable": true
+    }
+  ],
+  "images": [
+    {
+      "file": "《百年孤独》_01_书籍封面.png",
+      "image_id": "《百年孤独》_01",
+      "segments": "主书封（片头定格，不占 S 段编号）",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\03_图片\\《百年孤独》_01_书籍封面.png",
+      "public_url": "https://gcore.jsdelivr.net/gh/donshaoye/capcut-assets@main/bainian-gudu/images/01_cover.png",
+      "remote_file": "bainian-gudu/images/01_cover.png",
+      "http": "200",
+      "content_type": "image/png",
+      "bytes": 2200014,
+      "md5_match": true,
+      "source": "本地 ImageGen 生成（非火山方舟）",
+      "usable": true
+    },
+    {
+      "file": "《百年孤独》_02_强情绪钩子.png",
+      "image_id": "《百年孤独》_02",
+      "segments": "S01",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\03_图片\\《百年孤独》_02_强情绪钩子.png",
+      "public_url": "https://gcore.jsdelivr.net/gh/donshaoye/capcut-assets@main/bainian-gudu/images/02_hook.png",
+      "remote_file": "bainian-gudu/images/02_hook.png",
+      "http": "200",
+      "content_type": "image/png",
+      "bytes": 2404417,
+      "md5_match": true,
+      "source": "本地 ImageGen 生成（非火山方舟）",
+      "usable": true
+    },
+    {
+      "file": "《百年孤独》_03_书名引入.png",
+      "image_id": "《百年孤独》_03",
+      "segments": "S02_01 / S02_02",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\03_图片\\《百年孤独》_03_书名引入.png",
+      "public_url": "https://gcore.jsdelivr.net/gh/donshaoye/capcut-assets@main/bainian-gudu/images/03_title.png",
+      "remote_file": "bainian-gudu/images/03_title.png",
+      "http": "200",
+      "content_type": "image/png",
+      "bytes": 2440480,
+      "md5_match": true,
+      "source": "本地 ImageGen 生成（非火山方舟）",
+      "usable": true
+    },
+    {
+      "file": "《百年孤独》_04_重复的人生.png",
+      "image_id": "《百年孤独》_04",
+      "segments": "S03",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\03_图片\\《百年孤独》_04_重复的人生.png",
+      "public_url": "https://gcore.jsdelivr.net/gh/donshaoye/capcut-assets@main/bainian-gudu/images/04_repeat.png",
+      "remote_file": "bainian-gudu/images/04_repeat.png",
+      "http": "200",
+      "content_type": "image/png",
+      "bytes": 2794198,
+      "md5_match": true,
+      "source": "本地 ImageGen 生成（非火山方舟）",
+      "usable": true
+    },
+    {
+      "file": "《百年孤独》_05_七代同名.png",
+      "image_id": "《百年孤独》_05",
+      "segments": "S04",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\03_图片\\《百年孤独》_05_七代同名.png",
+      "public_url": "https://gcore.jsdelivr.net/gh/donshaoye/capcut-assets@main/bainian-gudu/images/05_generations.png",
+      "remote_file": "bainian-gudu/images/05_generations.png",
+      "http": "200",
+      "content_type": "image/png",
+      "bytes": 2778665,
+      "md5_match": true,
+      "source": "本地 ImageGen 生成（非火山方舟）",
+      "usable": true
+    },
+    {
+      "file": "《百年孤独》_06_没认清自己.png",
+      "image_id": "《百年孤独》_06",
+      "segments": "S05",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\03_图片\\《百年孤独》_06_没认清自己.png",
+      "public_url": "https://gcore.jsdelivr.net/gh/donshaoye/capcut-assets@main/bainian-gudu/images/06_mirror.png",
+      "remote_file": "bainian-gudu/images/06_mirror.png",
+      "http": "200",
+      "content_type": "image/png",
+      "bytes": 2519174,
+      "md5_match": true,
+      "source": "本地 ImageGen 生成（非火山方舟）",
+      "usable": true
+    },
+    {
+      "file": "《百年孤独》_07_孤独的门.png",
+      "image_id": "《百年孤独》_07",
+      "segments": "S06",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\03_图片\\《百年孤独》_07_孤独的门.png",
+      "public_url": "https://gcore.jsdelivr.net/gh/donshaoye/capcut-assets@main/bainian-gudu/images/07_door.png",
+      "remote_file": "bainian-gudu/images/07_door.png",
+      "http": "200",
+      "content_type": "image/png",
+      "bytes": 2721438,
+      "md5_match": true,
+      "source": "本地 ImageGen 生成（非火山方舟）",
+      "usable": true
+    },
+    {
+      "file": "《百年孤独》_08_一句真话.png",
+      "image_id": "《百年孤独》_08",
+      "segments": "S07",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\03_图片\\《百年孤独》_08_一句真话.png",
+      "public_url": "https://gcore.jsdelivr.net/gh/donshaoye/capcut-assets@main/bainian-gudu/images/08_truth.png",
+      "remote_file": "bainian-gudu/images/08_truth.png",
+      "http": "200",
+      "content_type": "image/png",
+      "bytes": 2854548,
+      "md5_match": true,
+      "source": "本地 ImageGen 生成（非火山方舟）",
+      "usable": true
+    }
+  ],
+  "audio": [
+    {
+      "segment_id": "S01",
+      "file": "S01.mp3",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\02_配音与音频\\S01.mp3",
+      "duration_seconds": 2.821,
+      "public_url": "https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/audio%2Feffect%2F07420154f9011c8a0d3c88cbfc5a1aaf_1794297429321_6725.mp3?Expires=1794383829&OSSAccessKeyId=LTAI5t6b6ytykqLxpkHbMvhN&Signature=sht%2FbKaJr%2BPtR4pjnihJBrHhlGg%3D",
+      "reused": true,
+      "usable": true
+    },
+    {
+      "segment_id": "S02_01",
+      "file": "S02_01.mp3",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\02_配音与音频\\S02_01.mp3",
+      "duration_seconds": 1.695,
+      "public_url": "https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/audio%2Feffect%2F07420157db5b4f0e0a97fa51552612c1_1794297432027_8711.mp3?Expires=1794383832&OSSAccessKeyId=LTAI5t6b6ytykqLxpkHbMvhN&Signature=iu8q7WKWK4jXKm64He3SBLhMT2E%3D",
+      "reused": true,
+      "usable": true
+    },
+    {
+      "segment_id": "S02_02",
+      "file": "S02_02.mp3",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\02_配音与音频\\S02_02.mp3",
+      "duration_seconds": 1.312,
+      "public_url": "https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/audio%2Feffect%2F07420158ca33dac1c91708426b3eec58_1794297433127_7439.mp3?Expires=1794383833&OSSAccessKeyId=LTAI5t6b6ytykqLxpkHbMvhN&Signature=Jp91ec58HEDSF04OE7XQ0eR%2B5WU%3D",
+      "reused": true,
+      "usable": true
+    },
+    {
+      "segment_id": "S03",
+      "file": "S03.mp3",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\02_配音与音频\\S03.mp3",
+      "duration_seconds": 4.9,
+      "public_url": "https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/audio%2Feffect%2F07420159f8f6ece8db0376d5a20abfb2_1794297434565_8172.mp3?Expires=1794383834&OSSAccessKeyId=LTAI5t6b6ytykqLxpkHbMvhN&Signature=e9e11Q5EtSV32eE7d5BCEPpL%2BPE%3D",
+      "reused": true,
+      "usable": true
+    },
+    {
+      "segment_id": "S04",
+      "file": "S04.mp3",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\02_配音与音频\\S04.mp3",
+      "duration_seconds": 4.6,
+      "public_url": "https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/audio%2Feffect%2F0742015b16da3a213632e1fe36af9d71_1794297436043_7194.mp3?Expires=1794383836&OSSAccessKeyId=LTAI5t6b6ytykqLxpkHbMvhN&Signature=ESpiTMfSrBSZPSMM78lvbH1sxtw%3D",
+      "reused": true,
+      "usable": true
+    },
+    {
+      "segment_id": "S05",
+      "file": "S05.mp3",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\02_配音与音频\\S05.mp3",
+      "duration_seconds": 4.0,
+      "public_url": "https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/audio%2Feffect%2F0742015c3ea95b77daa0b91f95971274_1794297437642_8453.mp3?Expires=1794383837&OSSAccessKeyId=LTAI5t6b6ytykqLxpkHbMvhN&Signature=g4CCqOvqDEnxDG%2B0TAPdb4sd7mM%3D",
+      "reused": true,
+      "usable": true
+    },
+    {
+      "segment_id": "S06",
+      "file": "S06.mp3",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\02_配音与音频\\S06.mp3",
+      "duration_seconds": 4.3,
+      "public_url": "https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/audio%2Feffect%2F0742015e9ba2546df385569ee4da69f8_1794297439181_5903.mp3?Expires=1794383839&OSSAccessKeyId=LTAI5t6b6ytykqLxpkHbMvhN&Signature=%2BnWHZbFlVhoYAJTlXW1esvlhWnY%3D",
+      "reused": true,
+      "usable": true
+    },
+    {
+      "segment_id": "S07",
+      "file": "S07.mp3",
+      "local_path": "D:/WorkBuddy/书籍分享/百年孤独\\02_配音与音频\\S07.mp3",
+      "duration_seconds": 3.9,
+      "public_url": "https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/audio%2Feffect%2F0742015f23b8ba050fd8291ab75ee582_1794297440986_7163.mp3?Expires=1794383841&OSSAccessKeyId=LTAI5t6b6ytykqLxpkHbMvhN&Signature=5pefc5mCy4o9pVxufMjSctwqqSk%3D",
+      "reused": true,
+      "usable": true
+    }
+  ]
+}
